@@ -1,0 +1,21 @@
+.container{
+    height: 150px;
+    width:100%;
+    background-color: aqua;
+    display: flex;
+}
+.header{
+    width: 50%;
+    background-color: blue;
+}
+.header2{
+    width: 50%;
+    background-color: blueviolet;
+    display: flex;
+    
+}
+.header2 ul li{
+    display: flex;
+    padding-top: 3px;
+
+}

@@ -1,0 +1,33 @@
+.header
+{
+    width: 100% ;
+    background: green;
+    height: 150px;
+}
+.left-section
+{
+    width: 20%;
+    float: left;
+    height: 400px;
+    background-color: rgb(18, 18, 20);
+}
+.right-section
+{
+    width: 80%;
+    float: left;
+    height: 400px;
+    background: rgb(216, 13, 13);
+}
+.footer
+{
+    height: 150px;
+    width: 100%;
+    background: rgb(177, 238, 9);
+}
+.content
+{
+    height: 400px;
+}
+body{
+    margin: 0px;
+}
